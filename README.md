@@ -18,4 +18,4 @@
 
 1. Requirements to avoid fraud data and fraud desktop app
 
-   
+###### Due to the time limitation and handling by one person ,this project is getting delayed ,please watch for this ,Based on the number of watch it will nbe done fastly   
